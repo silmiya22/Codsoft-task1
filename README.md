@@ -12,9 +12,13 @@ T0-do list application using python that allows users to manage their daily task
 
 FEATURES
 
-add a task 
+add a task
+
 view task
+
 mark task as completed 
+
 delete a task
+
 persistent storage
 
